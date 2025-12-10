@@ -1,13 +1,13 @@
 # kore
 Kambam application developed using Nextjs@16.0.8
 
-<a href="https://gitmoji.dev">
+<a href="https://gitmoji.dev" target="_blank">
   <img
     src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
     alt="Gitmoji"
   />
 </a>
-<a href="https://nextjs.org/">
+<a href="https://nextjs.org/" target="_blank">
   <img
     src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
     alt="Next JS"
