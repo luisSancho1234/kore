@@ -7,3 +7,4 @@ Kambam application developed using Nextjs@16.0.8
     alt="Gitmoji"
   />
 </a>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
