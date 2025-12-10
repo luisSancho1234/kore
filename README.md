@@ -1,3 +1,10 @@
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
+
 # kore
 Kambam application developed using Nextjs@16.0.8
 
@@ -23,12 +30,6 @@ Kambam application developed using Nextjs@16.0.8
   <img
     src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
     alt="Typescript"
-  />
-</a>
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
   />
 </a>
 
