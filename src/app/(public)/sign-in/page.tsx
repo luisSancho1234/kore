@@ -1,3 +1,5 @@
+'use-client'
+
 export default function SignIn() {
   return (
     <div className="bg-linear-to-tr from-[#248a87] to-[#11545100]">

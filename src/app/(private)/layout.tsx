@@ -1,3 +1,5 @@
+import Header from "@/src/shared/components/ui/Header";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -5,6 +7,7 @@ export default function RootLayout({
 }>) {
   return (
       <>
+      <Header publicRoute={false}/>
         {children}
       </>
   );

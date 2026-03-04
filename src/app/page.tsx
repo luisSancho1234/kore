@@ -1,7 +1,9 @@
 
+
 export default function Home() {
   return (
-    <div className="bg-">
-    </div>
+    <>
+        <p>You are in the Homepage</p>
+    </>
   );
 }
